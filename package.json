@@ -1,0 +1,32 @@
+{
+  "name": "react-native-call",
+  "version": "0.1.0",
+  "description": "call phone",
+  "main": "index.js",
+  "scripts": {
+    "lint": "standard",
+    "lint:fix": "npm run lint -- --fix",
+    "test": "npm run lint"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fercho0/react-native-call.git"
+  },
+  "keywords": [
+    "js",
+    "javascript",
+    "react native"
+  ],
+  "files": [
+    "index.js"
+  ],
+  "author": "Fernando Lucena Calixto <fer.lc.developer@gmail.com> (forevertucode.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fercho0/react-native-call"
+  },
+  "homepage": "https://github.com/fercho0/react-native-call#readme",
+  "devDependencies": {
+    "standard": "^11.0.0"
+  }
+}
